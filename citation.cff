@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work or the associated material, please cite it as below."
+title: "The Borda Milan Pyramid and the VEHICLE Formula-as-Architecture"
+authors:
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+version: "1.1"
+doi: "10.5281/zenodo.19981738"
+date-released: "2026-05-02"
+url: "https://vehiclesystemslab.com"
+repository-code: "https://github.com/vehiclesystemslab"
+abstract: "This work presents the Borda Milan Pyramid as an architectural synthesis of the VEHICLE Formula-as-Architecture framework, a projection-governed approach for studying complex relational systems composed of internally structured nodes."
+keywords:
+  - "VEHICLE Systems Lab"
+  - "Borda Milan Pyramid"
+  - "Formula-as-Architecture"
+  - "projection-governed systems"
+  - "complex relational systems"
+  - "graph dynamics"
+  - "internal coherence"
+  - "relational tension"
+  - "attractor discovery"
+  - "E.I.A.R.(V)"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Borda Milan"
+      given-names: "Roberto"
+      orcid: "https://orcid.org/0009-0009-9047-1036"
+  title: "The Borda Milan Pyramid and the VEHICLE Formula-as-Architecture: A Projection-Governed Framework for Complex Relational Systems"
+  year: 2026
+  doi: "10.5281/zenodo.19981738"
+  url: "https://vehiclesystemslab.com"
